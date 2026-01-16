@@ -1,6 +1,18 @@
 # 💫 About Me:
-🧐 Who am I?<br><br>Hi! I’m Ashley, a developer in training with a strong interest in software development and problem-solving. I enjoy building efficient, well-structured applications and continuously improving my technical skills.<br><br>😼What am I currently working on?<br>I’m currently working on personal and academic projects focused on strengthening my knowledge in programming, algorithms, and software development, both in web and general-purpose applications.
 
+<table>
+  <tr>
+    <td>
+      🧐 <b>Who am I?</b><br>
+      Hi! I’m Ashley, a developer in training with a strong interest in software development and problem-solving. I enjoy building efficient, well-structured applications and continuously improving mi technical skills.<br><br>
+      😼 <b>What am I currently working on?</b><br>
+      I’m currently working on personal and academic projects focused on strengthening my knowledge in programming, algorithms, and software development, both in web and general-purpose applications.
+    </td>
+    <td width="300px">
+      <img src="kitty-code.gif" width="100%">
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashkunizam1808@gmail.com) 
